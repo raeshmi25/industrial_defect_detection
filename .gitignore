@@ -1,0 +1,16 @@
+# Python virtual environment and cache
+/.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Local dataset and trained model
+/datasets/
+/models/
+
+# Keep root-level experimental outputs local
+/results/
+
+# Environment secrets
+.env
