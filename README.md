@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Industrial Defect Detection and Localization
 
@@ -72,3 +73,6 @@ It is not a trained anomaly-detection model.
 
 The dataset is subject to its own license terms.
 Check the applicable dataset license before using or redistributing it.
+=======
+# industrial_defect_detection
+>>>>>>> dcf8e3ac622b23f3edd017d8ba572cf00ea94e34
